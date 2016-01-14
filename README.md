@@ -1,0 +1,2 @@
+# GSRevealingCollectionView
+UICollectionViewFlowLayout with revealing animation
